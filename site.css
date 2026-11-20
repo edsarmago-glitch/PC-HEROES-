@@ -238,7 +238,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 @media (max-width: 600px) { .grid-2 { grid-template-columns: 1fr; } }
 
 /* ---------- CONTACT ---------- */
-.contact { background: var(--cream); color: #000; }
+.contact {background: var(--ink) url("web-img/kk sign.jpg") 70% 30% / cover no-repeat;}
 .marquee { background: var(--green); color: #f2f2f2; overflow: hidden; white-space: nowrap; padding: 12px 0; font-size: 26px; }
 .marquee span { display: inline-block; animation: slide 30s linear infinite; }
 @keyframes slide { to { transform: translateX(-50%); } }
