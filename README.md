@@ -25,4 +25,4 @@ Visuals were designed on Figma linked here https://www.figma.com/site/qPyNFIgGtB
 
 **DISCLOSURE:**
 
-Frames were then converted to html. using an external plugin: https://divriots.com/export.design/
+Frames were then converted to HTML. using an external plugin: https://divriots.com/export.design/. The HTML was then organized with Claude.
